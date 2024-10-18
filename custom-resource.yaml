@@ -1,0 +1,6 @@
+apiVersion: mygroup.mydomain.com/v1
+kind: Foo
+metadata:
+  name: example-foo
+spec:
+  fooCount: 5
